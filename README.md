@@ -11,4 +11,6 @@ An Android project based on MVVM and Google News Api
 <p>
 •	Improved performance by implements RecyclerView for displaying and AsyncTask for accessibility
 </p>
+<p>
 •	Built the Room Database with LiveData to support local cache and offline model
+</p>
